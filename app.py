@@ -5,7 +5,7 @@ import pickle
 # Set up page config
 st.set_page_config(page_title="Career Interest Predictor", layout="centered")
 
-st.title("🎯 Career Interest Predictor")
+st.title(" Career Interest Predictor")
 st.write("Select your skill levels below to find your recommended career path.")
 
 # Load the saved model and label encoder
